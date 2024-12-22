@@ -3,10 +3,13 @@ import "./Footer.scss";
 function Footer() {
   return (
     <div className="footer">
-      {/*  <div>
-       <img src="logo-black.png" alt="logo" width="100" />
+      <div>
+      <h3>Contact</h3>
+      <p>email:ibrahimallae1@gmail.com</p>
+      <p>tel: 06 95 95 95 95</p>
+
+  <div>© 2025 . All rights reserved</div> 
       </div>
-      <div>© 2020 Kasa. All rights reserved</div> */}
     </div>
   );
 }
